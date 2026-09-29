@@ -118,7 +118,7 @@ In My Own Words: The VR Robot can use TRUE or FALSE information to decide what t
 
 Example: Is the distance less than 100 mm? can be TRUE or FALSE.
 
-6. Sense → Think → Act
+Sense → Think → Act
 What It Means: A robot gets information, makes a decision based on that information, and then performs an action.
 
 In My Own Words: The VR Robot senses something, decides what it means, and responds.
@@ -153,6 +153,125 @@ In My Own Words: If I notice that the VR Robot keeps doing the same group of act
 
 Example: If the robot needs to drive forward, turn right, drive forward, turn right several times, I can recognize the pattern and use a repeat loop to make the code shorter.
 ## Vocabulary
+VR Robot + Playground
+Terms: Robot, Playground
+
+What It Means: The Robot is the virtual robot that you program in VEXcode VR. The Playground is the virtual environment where the Robot moves and completes challenges.
+
+In My Own Words: The Robot is what I control with code, and the Playground is the virtual world where it operates.
+
+Example: I can program the Robot to drive through a maze on the Playground.
+
+Programming Language + Project
+Terms: Programming Language, Project
+
+What It Means: A Programming Language is a system used to write instructions for a computer or robot. A Project is the collection of code created to make the Robot perform a task.
+
+In My Own Words: The programming language is how I communicate instructions to the Robot, and the project is the code I create.
+
+Example: I can create a VEXcode VR project using blocks to solve a maze.
+
+Behavior + Command
+Terms: Behavior, Command
+
+What It Means: A Behavior is an action or response performed by the Robot. A Command is an instruction that tells the Robot what to do.
+
+In My Own Words: Commands tell the Robot what to do, and the behavior is what the Robot does because of those commands.
+
+Example: The command drive forward causes the Robot to move forward.
+
+Drivetrain
+Terms: Drivetrain
+
+What It Means: The Drivetrain is the part of the Robot that controls its movement, including driving and turning.
+
+In My Own Words: The drivetrain is what allows the Robot to move around the Playground.
+
+Example: I can use drivetrain commands to make the Robot drive forward 500 mm and then turn right.
+
+Loop + Iteration
+Terms: Loop, Iteration
+
+What It Means: A Loop repeats a group of commands. Iteration means one cycle or repetition of those commands.
+
+In My Own Words: A loop makes the Robot repeat instructions, and each time the instructions repeat is an iteration.
+
+Example: A repeat 4 loop has four iterations of the commands inside it.
+
+Sensor + Bumper Sensor
+Terms: Sensor, Bumper Sensor
+
+What It Means: A Sensor allows the Robot to collect information about its environment. A Bumper Sensor detects when the Robot's bumper is pressed or comes into contact with something.
+
+In My Own Words: Sensors help the Robot gather information, and the Bumper Sensor can tell the program when the Robot has bumped into something.
+
+Example: The Robot can use the Bumper Sensor to detect when it reaches a wall.
+
+Boolean + Condition + TRUE/FALSE
+Terms: Boolean, Condition, TRUE, FALSE
+
+What It Means: A Boolean is a value that can only be TRUE or FALSE. A Condition is a question or test that produces a Boolean answer.
+
+In My Own Words: A condition asks the Robot a question, and the answer is either TRUE or FALSE.
+
+Example: Is the Bumper Sensor pressed? can return TRUE if it is pressed or FALSE if it is not.
+
+Distance Sensor + Threshold
+Terms: Distance Sensor, Threshold
+
+What It Means: The Distance Sensor measures how far the Robot is from an object. A Threshold is a value used as a limit for making a decision.
+
+In My Own Words: The Distance Sensor tells the Robot how far away something is, and the threshold gives the Robot a number to compare that distance to.
+
+Example: If the threshold is 100 mm, the program can check whether the Distance Sensor detects an object closer than 100 mm.
+
+Coordinate Plane + X/Y Coordinates
+Terms: Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
+
+What It Means: A Coordinate Plane is a grid used to describe locations. The X-axis shows horizontal position, and the Y-axis shows vertical position. The X-coordinate tells the position along the X-axis, while the Y-coordinate tells the position along the Y-axis.
+
+In My Own Words: Coordinates give the Robot a way to describe exactly where it is on the Playground.
+
+Example: A location such as (3, 2) means the X-coordinate is 3 and the Y-coordinate is 2.
+
+Location Sensor
+Terms: Location Sensor
+
+What It Means: The Location Sensor provides information about the Robot's position and orientation on the Playground.
+
+In My Own Words: The Location Sensor helps the program know where the Robot is and which direction it is facing.
+
+Example: A program can use the Robot's X and Y location to determine when it has reached a certain area of the Playground.
+
+Comment
+Terms: Comment
+
+What It Means: A Comment is a note added to code to explain what part of the program does. Comments do not control the Robot.
+
+In My Own Words: Comments help me and other programmers understand what my code is supposed to do.
+
+Example: I can add a comment saying "Drive to the blue wall" above the commands that move the Robot there.
+
+Eye Sensor
+Terms: Eye Sensor
+
+What It Means: The Eye Sensor detects colors and objects in the Robot's environment.
+
+In My Own Words: The Eye Sensor helps the Robot identify what it sees so the program can make decisions.
+
+Example: The Robot can use the Eye Sensor to detect a red object and then stop.
+
+Conditional Statement
+Terms: Conditional Statement
+
+What It Means: A Conditional Statement allows a program to make a decision based on whether a condition is TRUE or FALSE.
+
+In My Own Words: A conditional statement lets the Robot decide what to do depending on what its sensors or program detect.
+
+Example: If the Bumper Sensor is pressed, then stop driving.
+
+
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
