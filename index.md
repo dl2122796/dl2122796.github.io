@@ -1,7 +1,7 @@
 # Welcome to My Portfolio Hello! My name is DLR
 ## Projects
 
-- Project 1: Description
+- Project 1: [VEX VR](vex-vr.md) 
 
 - Project 2: Description
 
