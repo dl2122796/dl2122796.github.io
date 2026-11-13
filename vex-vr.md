@@ -1,4 +1,4 @@
-## Challenge: [Name]
+## Challenge: [moving your robot]
 
 ### Goal
 
