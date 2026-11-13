@@ -12,3 +12,7 @@ Click here to learn more → [About Me](about.md)
 ## Notebook
 
 Click here to go to my notebook → [Notebook](notebook.md)
+
+## Engineering Notebook
+
+Click her to go to my engineering notebook → [engineering notebook](engineering-notebook.md)
